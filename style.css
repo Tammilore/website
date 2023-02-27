@@ -3605,7 +3605,7 @@
 }
 
 .tab-link-tab-1.w--current {
-  border-bottom-color: #3871e0;
+  border-bottom-color: #6e5899;
   background-color: hsla(0, 0%, 86.7%, 0);
   opacity: 1;
 }
@@ -3948,8 +3948,8 @@
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #3871e0;
-  background-image: url("https://assets.website-files.com/6354e6dacef916606fff8880/6354f036d13ee9c935520820_vector%201.svg"), url("https://assets.website-files.com/6354e6dacef916606fff8880/6354f0361bb1a20794d773ef_vector.svg");
+  background-color: #6e5899;
+  background-image: url(""), url("");
   background-position: 100% 100%, 0px 0px;
   background-size: auto, auto;
   background-repeat: no-repeat, no-repeat;
@@ -4238,7 +4238,7 @@
   -ms-flex-align: center;
   align-items: center;
   border-radius: 8px;
-  background-color: #3871e0;
+  background-color: #6e5899;
 }
 
 .mt-44 {
