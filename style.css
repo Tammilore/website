@@ -7438,7 +7438,7 @@ figcaption {
   align-items: center;
   border-radius: 8px;
   background-color: rgba(7, 20, 18, 0.04);
-  color: #071412;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -7465,7 +7465,7 @@ figcaption {
 }
 
 .job-card-item-heading {
-  color: #164038;
+  color: #000000;
   font-size: 20px;
   line-height: 140%;
 }
@@ -7483,7 +7483,7 @@ figcaption {
   padding-right: 16px;
   padding-left: 16px;
   border-radius: 20px;
-  background-color: #e1ffa0;
+  background-color: #6e5899;
   font-size: 16px;
   line-height: 32px;
   font-weight: 600;
