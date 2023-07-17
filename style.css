@@ -6682,6 +6682,11 @@ figcaption {
   width: 100%;
 }
 
+.code-card-image-1 {
+  min-width: 520px;
+  min-height: 198px;
+}
+
 .features-solution-card-heading {
   margin-bottom: 8px;
   font-size: 24px;
