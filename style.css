@@ -7649,9 +7649,9 @@ figcaption {
 }
 
 .pricing-hero-card-price {
-    margin-bottom: 16px;
-    font-size: 48px;
-    font-weight: 600;
+    margin-bottom: 5px;
+    font-size: 36px;
+    font-weight: 800;
     line-height: 117%;
 }
 
@@ -7663,8 +7663,8 @@ figcaption {
 }
 
 .pricing-hero-card-plan {
-    margin-bottom: 24px;
-    font-size: 24px;
+    margin-bottom: 10px;
+    font-size: 17px;
     font-weight: 600;
     line-height: 133%;
 }
@@ -7715,7 +7715,7 @@ figcaption {
 
 .pricing-hero-card-point-header {
     font-size: 18px;
-    line-height: 100%;
+    line-height: 150%;
 }
 
 .pricing-hero-card-grid {
