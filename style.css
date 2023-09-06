@@ -3786,6 +3786,7 @@ figcaption {
 
 .primary-button.pricing:hover {
   border-color: #6e5899;
+  background-color: #e1ffa0;
   color: #fff;
 }
 
