@@ -3793,7 +3793,7 @@ figcaption {
   width: 100%;
   border-radius: 8px;
   background-color: #e1ffa0;
-  color: #071412;
+  color: #6e5899;
 }
 
 .primary-button.integration-button {
@@ -7630,7 +7630,7 @@ figcaption {
   border-radius: 16px;
   background-color: #fff;
   box-shadow: 11px 11px 110px 0 rgba(0, 0, 0, 0.06);
-  color: #6e5899;
+  color: #111111;
 }
 
 .pricing-hero-card.secondary-2 {
