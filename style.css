@@ -3780,12 +3780,12 @@ figcaption {
 }
 
 .primary-button.pricing {
-  background-color: #e1ffa0;
-  color: #164038;
+  background-color: #6e5899;
+  color: #ffffff;
 }
 
 .primary-button.pricing:hover {
-  border-color: #e1ffa0;
+  border-color: #6e5899;
   color: #fff;
 }
 
