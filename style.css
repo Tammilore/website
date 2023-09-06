@@ -7649,9 +7649,9 @@ figcaption {
 
 .pricing-hero-card-price {
   margin-bottom: 16px;
-  font-size: 48px;
+  font-size: 36px;
   line-height: 117%;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .pricing-hero-card-price-small {
@@ -7662,10 +7662,12 @@ figcaption {
 }
 
 .pricing-hero-card-plan {
-  margin-bottom: 24px;
-  font-size: 24px;
-  line-height: 133%;
-  font-weight: 600;
+    margin-bottom: 16px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 133%;
 }
 
 .pricing-hero-card-point-contain {
@@ -7707,14 +7709,17 @@ figcaption {
 }
 
 .pricing-hero-card-point-text-75 {
-  color: rgba(7, 20, 18, 0.75);
-  font-size: 18px;
-  line-height: 100%;
+    color: #111111;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
 }
 
 .pricing-hero-card-point-header {
-  font-size: 18px;
-  line-height: 100%;
+   margin-bottom: 16px;
+   font-size: 16px;
+   font-weight: 300;
+   line-height: 100%;
 }
 
 .pricing-hero-card-grid {
