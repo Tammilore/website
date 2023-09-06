@@ -3105,12 +3105,12 @@ figcaption {
 }
 
 .footer-link.w--current {
-  padding-right: 8px;
-  padding-left: 8px;
-  border-color: #32735f;
-  border-radius: 20px;
-  background-color: #e1ffa0;
-  color: #32735f;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-color: #6e5899;
+    border-radius: 20px;
+    background-color: #ffffff;
+    color: #6e5899;
 }
 
 .footer-link.w--current:hover {
